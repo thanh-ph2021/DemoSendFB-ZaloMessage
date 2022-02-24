@@ -6,7 +6,7 @@ import {
 } from 'react-native';
 
 
-const ZaloScreen = () => {
+const SendGroupMessage = () => {
     return (
         <View style={styles.container}>
 
@@ -47,4 +47,4 @@ const styles = StyleSheet.create({
     }
 });
 
-export default ZaloScreen;
+export default SendGroupMessage;
